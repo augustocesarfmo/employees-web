@@ -10,9 +10,9 @@ import { v4 as uuidv4 } from 'uuid';
 // import { Container } from './styles';
 
 const initialData = [
-  { name: 'Augusto', last_name: 'Oliveira', email: 'augustocesarfmo@gmail.com', uuid: uuidv4() },
-  { name: 'Gustavo', last_name: 'Oliveira', email: 'augustocesarfmo@gmail.com', uuid: uuidv4() },
-  { name: 'Marília', last_name: 'Oliveira', email: 'augustocesarfmo@gmail.com', uuid: uuidv4() }
+  { name: 'Augusto', last_name: 'Ferreira', email: 'augusto@gmail.com', uuid: uuidv4() },
+  { name: 'Gustavo', last_name: 'Miranda', email: 'gustavo@gmail.com', uuid: uuidv4() },
+  { name: 'Marília', last_name: 'Oliveira', email: 'marilia@gmail.com', uuid: uuidv4() }
 ];
 
 function Home() {
