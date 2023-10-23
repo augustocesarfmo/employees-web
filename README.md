@@ -1,4 +1,4 @@
-# Employees - web
+# Employees web
 
 Aplicação _web_ que permite a exibição, criação, remoção e atualização (CRUD) de funcionários. A biblioteca de componentes [Material-UI](https://material-ui.com/) foi utilizada para construção das interfaces.
 
@@ -38,7 +38,7 @@ $ yarn start
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/employees-web/blob/master/LICENSE.md) para obter mais informações.
 
 ---
 
