@@ -2,6 +2,10 @@
 
 Aplicação web que permite a exibição, criação, remoção e atualização (CRUD) de funcionários. A biblioteca de componentes [Material-UI](https://material-ui.com/) foi utilizada para construção das interfaces.
 
+## 👀 Demo
+
+Para experimentar o projeto em ação, acesse a versão de demonstração [clicando aqui](https://employees-web.netlify.app/).
+
 ![](https://imgur.com/LD6dqZD.png)
 
 ![](https://imgur.com/ltpbH8P.png)
