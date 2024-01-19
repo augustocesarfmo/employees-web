@@ -1,6 +1,6 @@
 # Employees web
 
-Aplicação _web_ que permite a exibição, criação, remoção e atualização (CRUD) de funcionários. A biblioteca de componentes [Material-UI](https://material-ui.com/) foi utilizada para construção das interfaces.
+Aplicação web que permite a exibição, criação, remoção e atualização (CRUD) de funcionários. A biblioteca de componentes [Material-UI](https://material-ui.com/) foi utilizada para construção das interfaces.
 
 ![](https://imgur.com/LD6dqZD.png)
 
