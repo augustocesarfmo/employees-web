@@ -22,7 +22,7 @@ Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 
 ## ℹ️ Executando
 
-Para clonar e executar este projeto, você precisará de [Git](https://git-scm.com), [Node.js v12.13][nodejs] ou superior + [Yarn v1.19][yarn] ou superior instalado no seu computador.
+Para clonar e executar este projeto, você precisará de [Git](https://git-scm.com), [Node.js v12.13][nodejs] ou superior + [Yarn v1.19][yarn] ou superior instalados no seu computador.
 
 Na sua linha de comando execute:
 
